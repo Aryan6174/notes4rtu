@@ -1,9 +1,4 @@
-User-agent: Mediapartners-Google
-Disallow: 
-
 User-agent: *
 Disallow: /search
-Disallow: /
-Allow: /
 
 Sitemap: https://notes4rtu.netlify.app/sitemap.xml
