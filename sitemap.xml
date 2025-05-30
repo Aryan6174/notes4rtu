@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://notes4rtu.netlify.app/</loc>
+    <loc>https://notes4rtu.netlify.app/index.html</loc>
     <lastmod>2025-05-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -9,54 +9,54 @@
 
   <!-- 1st Year Pages -->
   <!-- <url><loc>https://notes4rtu.netlify.app/1styear</loc><lastmod>2025-05-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url> -->
-  <url><loc>https://notes4rtu.netlify.app/1styear/1styear</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/1styear/1labs</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/1styear/1books</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/1styear/1notes</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/1styear/1pyqs</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/1styear/math1notes</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/1styear/1styear.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/1styear/1labs.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/1styear/1books.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/1styear/1notes.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/1styear/1pyqs.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/1styear/math1notes.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 
   <!-- 2nd Year Pages -->
   <!-- <url><loc>https://notes4rtu.netlify.app/2ndyear</loc><lastmod>2025-05-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url> -->
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/2ndyear</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/2notes</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/2labs</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/2books</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/2pyqs</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/2ndyear.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/2notes.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/2labs.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/2books.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/2pyqs.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 
   <!-- 2nd Year Subjects -->
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/aem</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/tc</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/mefa</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/de</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/oops</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/dsa</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/se</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/dms</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/mpi</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/dbms</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/toc</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/dccn</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/aem.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/tc.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/mefa.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/de.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/oops.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/dsa.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/se.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/dms.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/mpi.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/dbms.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/toc.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/dccn.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 
   <!-- 2nd Year Books -->
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/mefabooks</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/dmsbooks</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/mpibooks</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/dbmsbooks</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/tocbooks</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/dccnbooks</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/mefabooks.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/dmsbooks.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/mpibooks.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/dbmsbooks.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/tocbooks.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/dccnbooks.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
 
   <!-- Additional Pages -->
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/tc1</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/2ndyear/tc2</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/tc1.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/2ndyear/tc2.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
 
   <!-- 3rd & 4th Year -->
   <!-- <url><loc>https://notes4rtu.netlify.app/3rdyear</loc><lastmod>2025-05-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url> -->
-  <url><loc>https://notes4rtu.netlify.app/3rdyear/3rdyear</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/3rdyear/3rdyear.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <!-- <url><loc>https://notes4rtu.netlify.app/4thyear</loc><lastmod>2025-05-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url> -->
-  <url><loc>https://notes4rtu.netlify.app/4thyear/4thyear</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/4thyear/4thyear.html</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 
   <!-- Static Pages -->
-  <url><loc>https://notes4rtu.netlify.app/about-us</loc><lastmod>2025-05-25</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://notes4rtu.netlify.app/contact-us</loc><lastmod>2025-05-25</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/about-us.html</loc><lastmod>2025-05-25</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://notes4rtu.netlify.app/contact-us.html</loc><lastmod>2025-05-25</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
