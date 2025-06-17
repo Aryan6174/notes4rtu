@@ -5,7 +5,7 @@
   </url>
 
   <!-- 1st Year Pages -->
-  <!-- <url><loc>https://notes4rtu.netlify.app/1styear</loc><lastmod>2025-05-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url> -->
+  <!-- <url><loc>https://notes4rtu.netlify.app/1styear</loc></url> -->
   <url><loc>https://notes4rtu.netlify.app/1styear/1styear.html</loc></url>
   <url><loc>https://notes4rtu.netlify.app/1styear/1labs.html</loc></url>
   <url><loc>https://notes4rtu.netlify.app/1styear/1books.html</loc></url>
