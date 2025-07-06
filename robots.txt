@@ -1,4 +1,8 @@
+# robots.txt for https://notes4rtu.netlify.app/
+
 User-agent: *
-Disallow: /search
+Disallow: /admin/
+Disallow: /private/
+Allow: /
 
 Sitemap: https://notes4rtu.netlify.app/sitemap.xml
