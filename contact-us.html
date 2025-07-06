@@ -1,60 +1,3 @@
-<!-- <?php
- try{
-
-  $host = "localhost";
-
-  $dbname = "jobboard";
-
-  $user = "root";
-
-  $pass = "";
-
-  $conn = new PDO("mysql:host=$host;dbname=$dbname",$user,$pass);
-  $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  } catch(PDOException $e){
-      echo $e->getMessage();
-  }
-  if(isset($_POST['submit'])){
-
-
-      $name = $_POST['name'];
-      $email = $_POST['email'];
-      $message = $_POST['message'];
-
-      if($password == $repassword){
-
-        $insert = $conn->prepare("insert into users (username,email,mypassword,img , type) values (:username, :email, :mypassword, :img,:type)");
-
-        $insert->execute([
-          ':username' => $username,
-          ':email' => $email,
-          ':mypassword' => password_hash($password, PASSWORD_DEFAULT),
-          ':img' => $img,
-          ':type' => $type,
-        ]);
-
-        header("location: index.html");
-        //echo "done";
-      }
-
-
-?>
-
-
-<<<<<<< HEAD
--->
-
-=======
-
- -->
->>>>>>> 195df89 (Update existing files and add new ones)
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -99,7 +42,7 @@
                 <nav class="main-nav">
                   <!-- ***** Logo Start ***** -->
                   <a href="index.html" class="logo">
-                      <img src="assets/images/eduwell.png" alt="Notes4RTU  ">
+                      <img src="/assets/images/eduwell.png" alt="Notes4RTU">
                   </a>
                   <!-- ***** Logo End ***** -->
                   <!-- ***** Menu Start ***** -->
